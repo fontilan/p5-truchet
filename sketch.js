@@ -1,5 +1,5 @@
 function setup() {
-  canvasSize = min(windowWidth * 0.5, windowHeight * 0.5);
+  canvasSize = min(windowWidth * 0.65, windowHeight * 0.65);
   createCanvas(canvasSize, canvasSize);
   noFill();
   stroke("#083f37");
