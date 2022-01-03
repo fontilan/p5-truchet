@@ -3,7 +3,7 @@ function setup() {
   createCanvas(canvasSize, canvasSize);
   noFill();
   stroke("#083f37");
-  strokeWeight(1);
+  strokeWeight(2);
 }
 
 function tile01() {
